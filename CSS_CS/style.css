@@ -68,3 +68,9 @@ h3 {
 #title {
     color: orange;
 }
+
+.inheritance {
+    color: orange;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
