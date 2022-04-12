@@ -4,6 +4,9 @@ h1 {
 h2 {
     color: blue;
 }
+h2 {
+    color: red;
+}
 
 .error {
     color: red;
@@ -52,4 +55,16 @@ ul {
     margin: 20px;
     padding: 20px;
     border-radius: 5px;
+}
+
+h3 {
+    color: green !important
+}
+
+.sub-heading {
+    color: blue;
+}
+
+#title {
+    color: orange;
 }
