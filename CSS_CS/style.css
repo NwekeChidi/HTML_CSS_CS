@@ -1,5 +1,5 @@
 h1 {
-    color: orange;
+    color: rgba(245, 116, 10, 0.986);
 }
 h2 {
     color: blue;
@@ -15,4 +15,14 @@ h2 {
 
 #test {
     color: maroon;
+}
+
+.orange {
+    background-color: orange;
+    color: white
+}
+
+.yellow {
+    background-color: yellow;
+    color: maroon
 }
